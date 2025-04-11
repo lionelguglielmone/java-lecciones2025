@@ -1,4 +1,4 @@
-package M1.F_Collections;
+package M1.E_Collections;
 
 import java.util.*;
 
